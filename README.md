@@ -1,5 +1,5 @@
 
-# Code for Cramer-Rao analysis of Interferometric Imaging Techniques
+# MATLAB code for Cramer-Rao analysis of Interferometric Imaging Techniques
 
 ## Please cite the following paper when using this code:
 
